@@ -1,6 +1,6 @@
 ## Hello everyone 👋
 
-My name is Igor Kozlov and I`m Beginner Software Engineer with a background in Quality Assurance. Nice to meet you!
+My name is Igor Kozlov and I`m a Backend Developer with a background in Quality Assurance. Nice to meet you!
 
 ## About me
 
